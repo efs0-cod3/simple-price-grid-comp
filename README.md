@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Live Site URL: [Github](https://efs0-cod3.github.io/simple-price-grid-comp/)
 
 ## My process
 
