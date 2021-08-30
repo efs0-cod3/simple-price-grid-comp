@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/grid-and-flex-Vh35Ttc6p)
 - Live Site URL: [Github](https://efs0-cod3.github.io/simple-price-grid-comp/)
 
 ## My process
